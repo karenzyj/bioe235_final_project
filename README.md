@@ -7,3 +7,5 @@ Required packages (for Python 3):
 * matplotlib
 * seaborn
 * sklearn
+
+The example nanopore data have been preprocessed (i.e. capture extraction from bulk raw current + normalization) following the pipeline used in https://www.nature.com/articles/s41587-021-01002-6, code for which can be found at https://github.com/uwmisl/NanoporeTERs. 
